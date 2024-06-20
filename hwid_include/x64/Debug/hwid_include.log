@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\vxvx\source\repos\hwid_include\hwid_include\src\hwid.h(77,13): warning C4101: "reg3": Unreferenzierte lokale Variable
+C:\Users\vxvx\source\repos\hwid_include\hwid_include\src\hwid.h(76,13): warning C4101: "reg2": Unreferenzierte lokale Variable
+  hwid_include.vcxproj -> C:\Users\vxvx\source\repos\hwid_include\x64\Debug\hwid_include.exe
